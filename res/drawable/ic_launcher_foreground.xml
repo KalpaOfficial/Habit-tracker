@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FF4CAF50"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    
+    <!-- Serenify logo elements -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,40 C35,40 40,45 40,50 L40,55 C40,60 35,65 30,65 C25,65 20,60 20,55 L20,50 C20,45 25,40 30,40 Z" />
+    
+    <!-- Running figure -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,50 L40,45 L40,40 L30,45 Z" />
+    
+    <!-- Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,50 L30,70 C30,75 25,80 20,80 L20,75 C20,70 25,65 30,65 Z" />
+    
+    <!-- Orange circle -->
+    <path
+        android:fillColor="#FFFF5722"
+        android:pathData="M50,30 C55,30 60,35 60,40 C60,45 55,50 50,50 C45,50 40,45 40,40 C40,35 45,30 50,30 Z" />
+    
+</vector>
+
+
+
+
+
+
+
